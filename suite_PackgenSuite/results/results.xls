@@ -1,0 +1,4082 @@
+<?xml version="1.0" ?>
+<?mso-application progid="Excel.Sheet" ?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet" xmlns:html="http://www.w3.org/TR/REC-html40" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="urn:schemas-microsoft-com:office:spreadsheet" xmlns:x="urn:schemas-microsoft-com:office:excel">
+    <Styles>
+        <Style ss:ID="Default" ss:Name="Normal">
+            <Alignment ss:Vertical="Bottom"/>
+        </Style>
+        <Style ss:ID="bold">
+            <Alignment ss:Vertical="Bottom"/>
+            <Font ss:Bold="1"/>
+        </Style>
+        <Style ss:ID="red">
+            <Font ss:Color="#C00000"/>
+        </Style>
+        <Style ss:ID="green">
+            <Font ss:Color="#00A000"/>
+        </Style>
+        <Style ss:ID="blue">
+            <Font ss:Color="#0000C0"/>
+        </Style>
+        <Style ss:ID="magenta">
+            <Font ss:Color="#FF0090"/>
+        </Style>
+        <Style ss:ID="dateformat">
+            <NumberFormat ss:Format="General Date"/>
+        </Style>
+    </Styles>
+    <Worksheet ss:Name="TestCases">
+        <Table ss:ExpandedRowCount="237" ss:ExpandedColumnCount="6">
+            <Column ss:AutoFitWidth="1" ss:Width="98.25"/>
+            <Column ss:AutoFitWidth="1" ss:Width="96.75"/>
+            <Column ss:AutoFitWidth="1" ss:Width="45.75"/>
+            <Column ss:AutoFitWidth="1" ss:Width="596.25"/>
+            <Column ss:AutoFitWidth="1" ss:Width="419.25"/>
+            <Column ss:AutoFitWidth="1" ss:Width="98.25"/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:34</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'suite_PackgenSuite'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'suite_PackgenSuite' started</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:34</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_SaveButtons_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_SaveButtons_exist' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_SaveButtons_exist</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:35</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SaveButtons_exist/test.py:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">True expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Save button should be enabled</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:35</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SaveButtons_exist/test.py:11</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">True expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Save button should be visible</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:35</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SaveButtons_exist/test.py:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">True expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Save button text should be 'Save'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:35</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_SaveButtons_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_SaveButtons_exist'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:37</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_clearcontents_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_clearcontents_exist' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_clearcontents_exist</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearcontents_exist/test.py:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'True' and 'True' are equal</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearcontents_exist/test.py:9</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Clear Contents' and 'Clear Contents' are equal</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_clearcontents_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_clearcontents_exist'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_combobox_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_combobox_exist' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_combobox_exist</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_combobox_exist/test.py:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'3' and '3' are equal</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_combobox_exist/test.py:9</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'True' and 'True' are equal</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_combobox_exist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_combobox_exist'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_Savedtable_emptyatBeg'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_Savedtable_emptyatBeg' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_Savedtable_emptyatBeg</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="red">
+                    <Data ss:Type="String">FAIL</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Savedtable_emptyatBeg/test.py:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">VP1: Screenshot comparison of 'mainWindow_SaveTable_QTableWidget' failed</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Screenshots do not match. Differing screenshot saved as '/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/results/suite_PackgenSuite/tst_Savedtable_emptyatBeg/VP1/failedImages/failed_1.png'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">VP1</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_Savedtable_emptyatBeg'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_Savedtable_emptyatBeg'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_SendTableEmpty'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_SendTableEmpty' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_SendTableEmpty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:47</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendTableEmpty/test.py:9</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'0' and '0' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Send table should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:47</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_SendTableEmpty'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_SendTableEmpty'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:49</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_checkingLineEdits'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_checkingLineEdits' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_checkingLineEdits</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_checkingLineEdits/test.py:20</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">{'name': 'NameEdit', 'type': 'QLineEdit', 'visible': 1, 'window': {'name': 'MainWindow', 'type': 'MainWindow', 'visible': 1}} should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_checkingLineEdits/test.py:20</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">{'name': 'ASCIIEdit', 'type': 'QLineEdit', 'visible': 1, 'window': {'name': 'MainWindow', 'type': 'MainWindow', 'visible': 1}} should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_checkingLineEdits/test.py:20</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">{'name': 'HEXEdit', 'type': 'QLineEdit', 'visible': 1, 'window': {'name': 'MainWindow', 'type': 'MainWindow', 'visible': 1}} should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_checkingLineEdits/test.py:20</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">{'name': 'AddressEdit', 'type': 'QLineEdit', 'visible': 1, 'window': {'name': 'MainWindow', 'type': 'MainWindow', 'visible': 1}} should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_checkingLineEdits/test.py:20</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">{'name': 'PortEdit', 'type': 'QLineEdit', 'visible': 1, 'window': {'name': 'MainWindow', 'type': 'MainWindow', 'visible': 1}} should be empty initially</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:52</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_checkingLineEdits'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_checkingLineEdits'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_CheckingSavedTableCol'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_CheckingSavedTableCol' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_CheckingSavedTableCol</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'7' and '7' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column count should match</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Send' and 'Send' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 1 should be 'Send'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Name' and 'Name' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 2 should be 'Name'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'To Address' and 'To Address' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 3 should be 'To Address'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'To Port' and 'To Port' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 4 should be 'To Port'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Type' and 'Type' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 5 should be 'Type'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'ASCII' and 'ASCII' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 6 should be 'ASCII'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSavedTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Hex' and 'Hex' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 7 should be 'Hex'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:54</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_CheckingSavedTableCol'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_CheckingSavedTableCol'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_CheckingSendTableCol'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_CheckingSendTableCol' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_CheckingSendTableCol</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'6' and '6' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column count should match</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Time' and 'Time' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 1 should be 'Time'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'To Address' and 'To Address' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 2 should be 'To Address'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'To Port' and 'To Port' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 3 should be 'To Port'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Method' and 'Method' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 4 should be 'Method'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'ASCII' and 'ASCII' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 5 should be 'ASCII'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_CheckingSendTableCol/test.py:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Hex' and 'Hex' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 6 should be 'Hex'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_CheckingSendTableCol'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_CheckingSendTableCol'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:19:59</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_TypingLineEdits'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_TypingLineEdits' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_TypingLineEdits</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing Name field with value: TestPacket1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TestPacket1' and 'TestPacket1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Name field should display 'TestPacket1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing Address field with value: 192.168.1.1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.1' and '192.168.1.1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Address field should display '192.168.1.1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing Port field with value: 8080</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8080' and '8080' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Port field should display '8080'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing Type field with value: TCP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:23</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TCP' and 'TCP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Type combobox should display 'TCP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing ASCII field with value: HelloWorld</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'HelloWorld' and 'HelloWorld' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">ASCII field should display 'HelloWorld'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Testing HEX field with value: 48656C6C6F</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_TypingLineEdits/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'48656C6C6F' and '48656C6C6F' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">HEX field should display '48656C6C6F'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:00</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_TypingLineEdits'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_TypingLineEdits'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:02</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_ImageExist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_ImageExist' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_ImageExist</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:03</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_ImageExist/test.py:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Image 'image', occurrence: 1 was found</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:03</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_ImageExist'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_ImageExist'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:05</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_saveSignal'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_saveSignal' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_saveSignal</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:28</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TestPacket1' and 'TestPacket1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'TestPacket1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.1' and '192.168.1.1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8080' and '8080' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8080'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TCP' and 'TCP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'TCP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'HelloWorld' and 'HelloWorld' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'HelloWorld'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveSignal/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'48656C6C6F' and '48656C6C6F' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '48656C6C6F'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:06</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_saveSignal'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_saveSignal'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:08</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_saveMissingField'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_saveMissingField' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_saveMissingField</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:09</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_saveMissingField/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'All fields must be filled out.' and 'All fields must be filled out.' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Warning message should be displayed</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:09</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_saveMissingField'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_saveMissingField'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_clearContentFunc'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_clearContentFunc' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_clearContentFunc</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Starting positive test case: Clear non-empty fields</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Name field should be cleared</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Address field should be cleared</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Port field should be cleared</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">ASCII field should be cleared</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">HEX field should be cleared</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:29</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Starting negative test case: Clear already empty fields</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Name field should already be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Address field should already be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Port field should already be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">ASCII field should already be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:32</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">HEX field should already be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Name field should remain empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Address field should remain empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Port field should remain empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">ASCII field should remain empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_clearContentFunc/test.py:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'' and '' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">HEX field should remain empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_clearContentFunc'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_clearContentFunc'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:15</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_SendviaSave'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_SendviaSave' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_SendviaSave</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:31</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:37</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the send table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking Time in send table: 2025-01-17 21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking To Address in send table: 192.168.1.1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:53</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.1' and '192.168.1.1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">To Address should match '192.168.1.1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking To Port in send table: 8080</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:55</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8080' and '8080' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">To Port should match '8080'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking Method in send table: TCP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:57</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TCP' and 'TCP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Method should match 'TCP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking ASCII in send table: HelloWorld</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:59</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'HelloWorld' and 'HelloWorld' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">ASCII should match 'HelloWorld'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SendviaSave/test.py:43</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Checking Hex in send table: 48656C6C6F</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_SendviaSave'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_SendviaSave'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:18</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_DeleteSaved'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_DeleteSaved' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_DeleteSaved</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:30</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'3' and '3' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 3 packets in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:31</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Row count before deletion: 3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="red">
+                    <Data ss:Type="String">FAIL</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:45</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'3' and '2' are not equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 2 packets after deletion</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Row count after deletion: 3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:51</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">True expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Packet 'Packet1' should remain in the table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="red">
+                    <Data ss:Type="String">FAIL</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:51</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Not verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">False expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Packet 'Packet1Packet2' should remain in the table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="red">
+                    <Data ss:Type="String">FAIL</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_DeleteSaved/test.py:51</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Not verified</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">False expression</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Packet 'Packet1Packet2Packet3' should remain in the table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:22</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_DeleteSaved'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_DeleteSaved'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:24</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_test_data_tdd'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_test_data_tdd' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_test_data_tdd</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:24</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_test_data_tdd/test.py:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">../shared/testdata/Test_data.tsv</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:24</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_test_data_tdd'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_test_data_tdd'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_Data_Driven_savetst'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_Data_Driven_savetst' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_Data_Driven_savetst</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Processing record: Name=Packet1, ASCII=Hello, HEX=48656C6C6F, Address=192.168.1.1, Port=8080, Type=TCP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet1' and 'Packet1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'Packet1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.1' and '192.168.1.1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.1'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8080' and '8080' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8080'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TCP' and 'TCP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'TCP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Hello' and 'Hello' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'Hello'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'48656C6C6F' and '48656C6C6F' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '48656C6C6F'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Processing record: Name=Packet2, ASCII=World, HEX=576F726C64, Address=192.168.1.2, Port=8081, Type=SSL</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet2' and 'Packet2' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'Packet2'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.2' and '192.168.1.2' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.2'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8081' and '8081' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8081'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'SSL' and 'SSL' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'SSL'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'World' and 'World' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'World'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'576F726C64' and '576F726C64' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '576F726C64'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:25</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Processing record: Name=Packet3, ASCII=Test, HEX=54657374, Address=192.168.1.3, Port=8082, Type=TCP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet3' and 'Packet3' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'Packet3'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.3' and '192.168.1.3' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.3'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8082' and '8082' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8082'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'TCP' and 'TCP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'TCP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Test' and 'Test' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'Test'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'54657374' and '54657374' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '54657374'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Processing record: Name=Packet4, ASCII=Data, HEX=44617461, Address=192.168.1.4, Port=8083, Type=UDP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet4' and 'Packet4' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'Packet4'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.4' and '192.168.1.4' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.4'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8083' and '8083' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8083'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'UDP' and 'UDP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'UDP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Data' and 'Data' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'Data'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'44617461' and '44617461' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '44617461'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:26</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Processing record: Name=Packet5, ASCII=Packet, HEX=5061636B6574, Address=192.168.1.5, Port=8084, Type=UDP</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'1' and '1' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">There should be 1 packet in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet5' and 'Packet5' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Name' should display 'Packet5'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'192.168.1.5' and '192.168.1.5' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Address' should display '192.168.1.5'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'8084' and '8084' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Port' should display '8084'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'UDP' and 'UDP' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'Type' should display 'UDP'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'Packet' and 'Packet' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'ASCII' should display 'Packet'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="green">
+                    <Data ss:Type="String">PASS</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Data_Driven_savetst/test.py:46</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Comparison</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">'5061636B6574' and '5061636B6574' are equal</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Column 'HEX' should display '5061636B6574'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:27</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_Data_Driven_savetst'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_Data_Driven_savetst'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_Clear_logs'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_Clear_logs' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_Clear_logs</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Feature</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Send and Clear Packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Scenario</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Send two packets and clear the send table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:4</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Given I have started the PackGen application</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:4</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Given I have started the PackGen application</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:38</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:5</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I enter the first packet with the following details:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:39</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:5</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I enter the first packet with the following details:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:39</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I enter the second packet with the following details:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:8</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I enter the second packet with the following details:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:11</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I send both packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:11</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I send both packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the send table should contain 2 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the send table should contain 2 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:40</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I click the Clear Log button</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I click the Clear Log button</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:14</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the send table should be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:14</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the send table should be empty</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Scenario</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Send two packets and clear the send table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_Clear_logs/test.feature:1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Feature</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Send and Clear Packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_Clear_logs'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_Clear_logs'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:41</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_case1'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_case1' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_case1</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:42</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_case1'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_case1'</Data>
+                </Cell>
+            </Row>
+            <Row/>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">START_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start 'tst_SearchPacket'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Test 'tst_SearchPacket' started</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">tst_SearchPacket</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Feature</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Search Packets in Saved Table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Scenario</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Search for packets in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:4</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Given I have started the PackGen application</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:4</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Given I have started the PackGen application</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:44</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:5</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I have saved the following packets:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:47</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:5</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">And I have saved the following packets:</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:47</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Packet" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:10</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Packet" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:11</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 3 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:11</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 3 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Packet1" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:12</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Packet1" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 1 packet</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:13</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 1 packet</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:14</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Hello" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:14</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I type "Hello" in the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:15</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 1 packet</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:15</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 1 packet</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I clear the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:16</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">When I clear the search field</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Start Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 3 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:17</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Step</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Then the saved table should show 3 packets</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:3</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Scenario</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Search for packets in the saved table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">LOG</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/tst_SearchPacket/test.feature:1</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End Feature</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">Search Packets in Saved Table</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END_TEST_CASE</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'tst_SearchPacket'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'tst_SearchPacket'</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="blue">
+                    <Data ss:Type="String">END</Data>
+                </Cell>
+                <Cell ss:StyleID="dateformat">
+                    <Data ss:Type="DateTime">2025-01-17T21:20:48</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String"></Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End 'suite_PackgenSuite'</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="String">End of test 'suite_PackgenSuite'</Data>
+                </Cell>
+            </Row>
+        </Table>
+    </Worksheet>
+    <Worksheet ss:Name="Summary">
+        <Table ss:ExpandedRowCount="9" ss:ExpandedColumnCount="2">
+            <Column ss:Width="132.75"/>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Tests</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">105</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Fails</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">4</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Passes</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">101</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Expected_fails</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Unexpected_passes</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Testcases</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">20</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Errors</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Fatals</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+            <Row>
+                <Cell ss:StyleID="bold">
+                    <Data ss:Type="String">Warnings</Data>
+                </Cell>
+                <Cell>
+                    <Data ss:Type="Number">0</Data>
+                </Cell>
+            </Row>
+        </Table>
+    </Worksheet>
+</Workbook>
