@@ -1,22 +1,36 @@
-PackGen - Packet Generator Simulation
-PackGen is a simple GUI application built using Qt that simulates a packet generator. It allows users to enter packet details, save them in a "Saved Packets" table, or send them to a "Sent Packets" table. This application is designed to demonstrate basic Qt GUI development and packet simulation.
-Table of Contents
+# PackGen - Packet Generator Simulation 📦
 
-Features
-Repository Structure
-Prerequisites
-How to Launch the App
-On macOS/Linux
-On Windows
-How to Use the App
+![Qt](https://img.shields.io/badge/Qt-6.x-green?logo=qt)
+![CMake](https://img.shields.io/badge/CMake-3.14+-blue?logo=cmake)
+![License](https://img.shields.io/badge/License-MIT-yellow)
 
-Features
+**PackGen** is a simple GUI application built using **Qt** that simulates a packet generator. It allows users to enter packet details, save them in a "Saved Packets" table, or send them to a "Sent Packets" table. This application is designed to demonstrate basic **Qt GUI development** and **packet simulation**.
 
-Packet Details Input: Enter packet details such as source, destination, protocol, and payload.
-Save Packets: Save entered packets to the "Saved Packets" table for later use.
-Send Packets: Send packets to the "Sent Packets" table to simulate transmission.
-Simple and Intuitive UI: Built using Qt's powerful GUI framework for a clean and user-friendly experience.
+---
 
+## Table of Contents 📚
+- [Features](#features)
+- [Repository Structure](#repository-structure)
+- [Prerequisites](#prerequisites)
+- [How to Launch the App](#how-to-launch-the-app)
+  - [On macOS/Linux](#on-macoslinux)
+  - [On Windows](#on-windows)
+- [How to Use the App](#how-to-use-the-app)
+
+---
+
+## Features ✨
+
+- **Packet Details Input**: Enter packet details such as source, destination, protocol, and payload.
+- **Save Packets**: Save entered packets to the "Saved Packets" table for later use.
+- **Send Packets**: Send packets to the "Sent Packets" table to simulate transmission.
+- **Simple and Intuitive UI**: Built using Qt's powerful GUI framework for a clean and user-friendly experience.
+
+---
+
+## Repository Structure 🗂️
+
+```plaintext
 PackGen/
 ├── CMakeLists.txt              # Root CMake configuration file
 ├── README.md                   # Project documentation (this file)
@@ -31,33 +45,7 @@ PackGen/
 │       └── icon.png            # Example icon file
 └── .gitignore                  # Specifies files to ignore in Git
 
-Prerequisites
-
-Before running the app, ensure you have the following installed:
-
-Qt Framework: Download and install Qt from qt.io.
-CMake: Required for building the project. Download from cmake.org.
-Git: For cloning the repository. Download from git-scm.com.
-
-How to Launch the App
-
-On Windows
-
-Clone the repository:
-git clone https://github.com/your-username/PackGen.git
-cd PackGen
-
-Build the application:
-mkdir build
-cd build
-cmake -G "MinGW Makefiles" ..  # Use "Visual Studio 17 2022" for Visual Studio
-cmake --build .
-
-Run the application:
-Navigate to the build directory and locate the generated executable (PackGen.exe).
-Double-click the executable or run it from the command line
-
-How to Use the App
+How to Use the App 🖥️
 
 Enter Packet Details:
 Fill in the packet details (e.g., source, destination, protocol, payload) in the input fields.
@@ -68,3 +56,4 @@ Click the "Send" button to send the packet to the "Sent Packets" table.
 View Packets:
 The "Saved Packets" table displays all saved packets.
 The "Sent Packets" table displays all sent packets.
+
