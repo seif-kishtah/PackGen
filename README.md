@@ -2,7 +2,6 @@
 
 ![Qt](https://img.shields.io/badge/Qt-6.x-green?logo=qt)
 ![CMake](https://img.shields.io/badge/CMake-3.14+-blue?logo=cmake)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 
 **PackGen** is a simple GUI application built using **Qt** that simulates a packet generator. It allows users to enter packet details, save them in a "Saved Packets" table, or send them to a "Sent Packets" table. This application is designed to demonstrate basic **Qt GUI development** and **packet simulation**.
 
@@ -45,15 +44,15 @@ PackGen/
 │       └── icon.png            # Example icon file
 └── .gitignore                  # Specifies files to ignore in Git
 
-How to Use the App 🖥️
+## How to Use the App 🖥️
 
-Enter Packet Details:
-Fill in the packet details (e.g., source, destination, protocol, payload) in the input fields.
-Save Packet:
-Click the "Save" button to save the packet to the "Saved Packets" table.
-Send Packet:
-Click the "Send" button to send the packet to the "Sent Packets" table.
-View Packets:
+-**Enter Packet Details**:
+  Fill in the packet details (e.g., source, destination, protocol, payload) in the input fields.
+-**Save Packet**:
+  Click the "Save" button to save the packet to the "Saved Packets" table.
+-**Send Packet**:
+  Click the "Send" button to send the packet to the "Sent Packets" table.
+-**View Packets**:
 The "Saved Packets" table displays all saved packets.
 The "Sent Packets" table displays all sent packets.
 
