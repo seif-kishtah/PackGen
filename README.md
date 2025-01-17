@@ -39,6 +39,7 @@ The "Saved Packets" table displays all saved packets.
 The "Sent Packets" table displays all sent packets.
 
 ## App Screenshot
+![PackGen Logo](Packgen_Handouts/AppPage.png)
 
 
 
