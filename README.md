@@ -26,6 +26,21 @@
 - **Simple and Intuitive UI**: Built using Qt's powerful GUI framework for a clean and user-friendly experience.
 
 ---
+## How to Use the App 🖥️
+
+-**Enter Packet Details**:
+  Fill in the packet details (e.g., source, destination, protocol, payload) in the input fields.
+-**Save Packet**:
+  Click the "Save" button to save the packet to the "Saved Packets" table.
+-**Send Packet**:
+  Click the "Send" button to send the packet to the "Sent Packets" table.
+-**View Packets**:
+The "Saved Packets" table displays all saved packets.
+The "Sent Packets" table displays all sent packets.
+
+## App Screenshot
+
+
 
 ## Repository Structure 🗂️
 
@@ -44,15 +59,6 @@ PackGen/
 │       └── icon.png            # Example icon file
 └── .gitignore                  # Specifies files to ignore in Git
 
-## How to Use the App 🖥️
 
--**Enter Packet Details**:
-  Fill in the packet details (e.g., source, destination, protocol, payload) in the input fields.
--**Save Packet**:
-  Click the "Save" button to save the packet to the "Saved Packets" table.
--**Send Packet**:
-  Click the "Send" button to send the packet to the "Sent Packets" table.
--**View Packets**:
-The "Saved Packets" table displays all saved packets.
-The "Sent Packets" table displays all sent packets.
+
 
