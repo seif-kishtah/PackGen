@@ -51,6 +51,8 @@ The "Sent Packets" table displays all sent packets.
 - **Start Server**:seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishserver --verbose --logfile /Users/seifallahmohamedkishtah/Desktop/TestSuites/logfile.txt
 - **Start Runner on Another Terminal**: seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishrunner --testsuite /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite --resultdir /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/results --reportgen xls
 - **if you want to change the result file**: seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishrunner --testsuite /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite --reportgen html,/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/results
+
+- Results folder  in the testsuite folder
 ## App Screenshot
 ![PackGen Logo](Packgen_Handouts/AppPage.png)
 
