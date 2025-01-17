@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/siemensimg">
+        <file>siemens.png</file>
+    </qresource>
+</RCC>
