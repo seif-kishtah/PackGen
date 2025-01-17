@@ -38,6 +38,19 @@
 The "Saved Packets" table displays all saved packets.
 The "Sent Packets" table displays all sent packets.
 
+## building the exec on Macos  ✨
+
+- **Configure the Project for Release**
+- **Clean the Project**: Clean All
+- **Build the Project**: Select the Release build configuration from the dropdown menu.
+- **Deploy the Application**: macdeployqt path/to/YourApp.app
+
+## Running tests  ✨
+
+- **Go to SquishDir/bin**: open 2 terminals.
+- **Start Server**:seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishserver --verbose --logfile /Users/seifallahmohamedkishtah/Desktop/TestSuites/logfile.txt
+- **Start Runner on Another Terminal**: seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishrunner --testsuite /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite --resultdir /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/results --reportgen xls
+- **if you want to change the result file**: seifallahmohamedkishtah@SeifAllahs-MacBook-Air bin % squishrunner --testsuite /Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite --reportgen html,/Users/seifallahmohamedkishtah/Desktop/TestSuites/suite_PackgenSuite/results
 ## App Screenshot
 ![PackGen Logo](Packgen_Handouts/AppPage.png)
 
